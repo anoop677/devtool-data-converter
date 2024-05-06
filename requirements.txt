@@ -4,3 +4,4 @@ python-dotenv==0.19.2
 python-decouple==3.5
 Faker==12.1.0
 pandas==1.4.0
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
